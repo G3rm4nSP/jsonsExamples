@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "password": "123.qwerty",
+    "image": "assets/images/avatar.jpg",
+    "age": 33,
+    "gender": male,
+    "phone": 912417141,
+    "userType": "admin",
+  },
+{
+  "id": 2,
+  "name": "Ervin Howell",
+  "email": "Ervin.Howell@melissa.tv",
+  "password": "456.qwerty",
+  "image": "assets/images/avatar.jpg",
+  "age": 28,
+  "gender": "male",
+  "phone": 987654321,
+  "userType": "user"
+},
+{
+  "id": 3,
+  "name": "Clementine Bauch",
+  "email": "Clementine@yesenia.net",
+  "password": "789.qwerty",
+  "image": "assets/images/avatar.jpg",
+  "age": 25,
+  "gender": "female",
+  "phone": 555666777,
+  "userType": "user"
+},
+{
+  "id": 4,
+  "name": "Sofia Mitch",
+  "email": "SofiaMitch@lolol.net",
+  "password": "969.qwerty",
+  "image": "assets/images/avatar.jpg",
+  "age": 15,
+  "gender": "female",
+  "phone": 575676757,
+  "userType": "user"
+},
+{
+  "id": 5,
+  "name": "Marcos Chand",
+  "email": "MarcosCha@termen.sop",
+  "password": "569.qwerty",
+  "image": "assets/images/avatar.jpg",
+  "age": 29,
+  "gender": "male",
+  "phone": 565656767,
+  "userType": "user"
+},
+{
+  "id": 6,
+  "name": "Marcela Bolen",
+  "email": "MarcelaCen@corto.net",
+  "password": "469.qwerty",
+  "image": "assets/images/avatar.jpg",
+  "age": 69,
+  "gender": "female",
+  "phone": 565656757,
+  "userType": "user"
+}
+
+]
