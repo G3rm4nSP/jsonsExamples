@@ -6,7 +6,7 @@
     "password": "123.qwerty",
     "image": "assets/images/avatar.jpg",
     "age": 33,
-    "gender": male,
+    "gender": "male",
     "phone": 912417141,
     "userType": "admin",
   },
